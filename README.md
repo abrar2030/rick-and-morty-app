@@ -29,6 +29,6 @@ This project is a Single Page Application (SPA) built using React that allows us
 
 ## Getting Started
 
-To get started with this project, follow these steps:
+To get started with this project, clone the Project:
 
 1. **Clone the repository**: https://github.com/abrar2030/rick-and-morty-app.git
